@@ -12,7 +12,7 @@ Limit (optional) assistance work to *brief* arm work on Monday.
 
 ## Wednesday: Recovery Day
 
-- Squat 5x5 @ 80% of Monday's work weight
+- Squat 2x5 @ 80% of Monday's work weight
 - Press or Bench (opposite of Monday) 3x5 @ 90% previous 5x5 weight
 - Chin-up 3x bodyweight to failure (5 min rest time)
 - Back Extension or Glute-Ham Raise 5x10
